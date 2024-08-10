@@ -1,0 +1,118 @@
+.content1{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 70px;
+
+position: absolute;
+width: 787px;
+height: 487px;
+left: calc(50% - 787px/2 + 20.5px);
+top: 188px;
+/* background-color: rgba(0, 0, 0, 0.2); */
+border-radius: 10px;
+
+}
+.content_one{
+    /* Apke Development Ka Sathi Hiremi! */
+
+width: 787px;
+height: 180px;
+
+font-family: 'Satoshi';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 90px;
+/* or 138% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+}
+.content_two{
+    /* Your CareeHiremi, where we connect talent with opportunities, empowering India's youth to become tomorrow's leaders */
+
+width: 787px;
+height: 64px;
+
+font-family: sans-serif;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+}
+.content_three{
+    /* Your CareeHiremi, where we connect talent with opportunities, empowering India's youth to become tomorrow's leaders */
+display: flex;
+justify-content: center;
+width: 787px;
+height: 64px;
+gap: 48px;
+font-family: 'Satoshi';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+}
+.cnt_btn1{
+
+    width:207px;
+    height:57px;
+    padding: 15px 20px 15px 20px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    background: #FF2626;
+ border: none;
+color: #FFFFFF;
+
+}
+.cnt_btn2{
+    width: 152px;
+height: 57px;
+padding: 15px 20px 15px 20px;
+gap: 10px;
+border-radius: 8px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+background: transparent;
+
+color: white;
+border: 1px solid #FFFFFF;
+
+}
+.clr_red{
+    color: red;
+}
