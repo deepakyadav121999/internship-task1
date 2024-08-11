@@ -1,0 +1,125 @@
+.testimonial2{
+   
+
+position: absolute;
+width: 100%;
+height: 603px;
+left: -2px;
+top: 2383px;
+
+
+}
+.inside_testimonial{
+    width: 100%;
+    height: 500px;
+    top: 2486px;
+    left: -2px;
+    gap: 0px;
+    opacity: 0px;
+    background: #EE0303;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.testimonial_left_content{
+    background-image: url("https://s3-alpha-sig.figma.com/img/f531/993c/99715472dc6d3d22291358bc00755d44?Expires=1724025600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IJN7rfa4aV8tO8wfoGuz6YRDsJSPXiz3zg9sSLR0IsuARPDwfnVaH9ZsLEkaO5JyPfHLASBz0XKUqm50vuqCbL25-IteKFqnL4qA6xZiI79V9nSInMVXhTxjKEu5BInRB8xEYZqwcHC4w~DFO8coULW6QraqYSoq39a7cML2lz5cn3o2YgqSImWD4cWlWDSdlxcU--Nf0ZluSCDsiVTyVjblBtChMr98PY6v3kWMogRbmbT9c41w7iU9lHtrrUiccb~HCCNMR6BTQQUQBaG3hEMB3nJ8uWca~yedbtN6iR-WT08G8IpXY63PwhDiSlzObF-b6z~0O~oi65XGyFDxdw__");
+    width: 378.22px;
+    height: 757.65px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 110px;
+
+background-repeat: no-repeat;
+}
+.testimonial_left{
+    display: flex;
+    
+    align-items: center;
+   
+}
+.testimonial_left>img{
+    width: 301.69px;
+    height: 600.64px;
+    margin-top: 1.16px;
+    margin-left: 2.03px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+.testimonial_right{
+/* Frame 1019 */
+
+/* Auto layout */
+
+
+
+width: 597px;
+height: 384px;
+left: 733px;
+top: 2544px;
+
+background: #EE0303;
+
+
+}
+.testimonial_inside{
+    display: flex;
+    flex-direction: column;
+     justify-content: space-around;
+    padding: 0px;
+    gap: 20px;
+}
+.r1{
+   
+font-size: 46.88px;
+font-weight: 900;
+line-height: 63.29px;
+letter-spacing: 0.04em;
+text-align: left;
+color: #FFFFFF;
+
+}
+.r1>span{
+
+    font-size: 46.88px;
+    font-weight: 900;
+    line-height: 63.29px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: black;
+}
+.r2,.r3{
+    
+font-size: 48px;
+font-weight: 700;
+line-height: 70px;
+text-align: left;
+color: #FFFFFF;
+}
+.r4{
+  
+font-size: 24px;
+font-weight: 500;
+line-height: 28.13px;
+text-align: left;
+color: #FFFFFF;
+
+}
+.r5{
+    width: 190px;
+height: 50px;
+padding: 10px;
+gap: 10px;
+border-radius: 8px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+color: #FFFFFF;
+border: 2px solid #FFFFFF;
+ text-align: center;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
