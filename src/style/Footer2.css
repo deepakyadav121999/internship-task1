@@ -14,3 +14,121 @@ top: 4549px;
 
 
 }
+.footer2_top{
+    /* Frame 1126 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 70px;
+
+width: 90%;
+height: 188.56px;
+
+
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.f22{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  
+font-size: 14.76px;
+font-weight: 400;
+line-height: 19.93px;
+text-align: left;
+
+}
+.f2_a{
+    /* Frame 1125 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 237.11px;
+height: 188.56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.f2_a>img{
+/* Logo */
+
+width: 159.96px;
+height: 118.56px;
+
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.f2_b,.f2_c,.f2_d,.f2_e,.f2_f{
+/* Frame 1114 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 5.78px;
+
+width: 145.73px;
+height: 151.81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+.f2b_p1{
+
+font-size: 15.01px;
+font-weight: 600;
+line-height: 24.02px;
+text-align: left;
+color: #FF2626;
+
+}
+.f2b_p2,.f2b_p3,.f2b_p4{
+    color: #141718;
+    
+    font-size: 14.11px;
+    font-weight: 300;
+    line-height: 21.02px;
+    text-align: left;
+    
+}
+.footer2_bottom{
+    /* Footer */
+
+
+width: 90%;
+display: flex;
+justify-content: space-between;
+
+
+}
+.bt_right{
+    display: flex;
+   gap: 10px;
+   align-items: center;
+}
