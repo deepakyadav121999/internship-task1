@@ -1,7 +1,7 @@
 
 import './App.css';
 
-import Footer from './Footer';
+import Footer1 from './Footer1';
 
 import HeadarContainer from './HeadarContainer';
 import Tesimonial from './Tesimonial';
@@ -14,6 +14,7 @@ function App() {
     <Tesimonial/>
     <Testimonial2/>
  <Testimonial3/>
+ <Footer1/>
     </div>
   );
 }

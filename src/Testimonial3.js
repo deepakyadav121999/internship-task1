@@ -8,9 +8,10 @@ import { FaHandshake } from "react-icons/fa";
 const Testimonial3 = () => {
   return (
     <div className='testimonial3'>
+      <div className='abd'></div>
               <div className="inside_testimonial3">
                          <div className='testimonial3_top'>
-                            <p>Why do our <span>clients</span> choose us?</p>
+                            <p>Why do our <span className='spn'>clients</span> choose us?</p>
                          </div>
 
 
