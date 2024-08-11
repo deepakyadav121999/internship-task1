@@ -31,7 +31,8 @@ height: 33.22px;
 left: 22px;
 top: 20.68px;
 border-radius: 8px;
-
+image-rendering: crisp-edges;
+image-rendering: pixelated;
 
 }
 .headar_two{
